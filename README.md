@@ -1,4 +1,4 @@
-![vRedM](Capture.png)
+![vRedM](Capture.PNG)
 
 cd web
 
