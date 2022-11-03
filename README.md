@@ -1,6 +1,9 @@
 # vRedM-Menu
 
+cd web
+
 yarn install 
+
 yarn start:game
 
 
