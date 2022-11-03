@@ -1,0 +1,21 @@
+.base-button{
+    color:white;
+    background-color:transparent;
+    background-image: url("../../imgs/selection_box_bg_1d.png");
+    background-size: fill;
+    font-size: 20px;
+    font-family: "crock", HapnaSlabSerif-Medium, serif;
+    width: 100%;
+    align-items: stretch;
+    justify-content: center;
+    display: flex;
+  }
+
+.base-button:hover{
+    border: 2px solid #ff0000;
+}
+
+.base-button:active{
+    color:#afafaf;
+    border: 2px solid #ff0000;
+}

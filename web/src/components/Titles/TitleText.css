@@ -1,0 +1,17 @@
+.title-text{
+    padding: 20px;
+    font-family: "crock", HapnaSlabSerif-Medium, serif;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; 
+}
+
+.backgroundimage{
+    background-image: url("../../imgs/menu_header_1a.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
